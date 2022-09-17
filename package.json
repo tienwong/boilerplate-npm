@@ -6,9 +6,11 @@
 	"main": "server.js",
 	"author": "Tien Wong",
 	"description": "Introductory project for back-end development and APIs certification on freeCodeCamp.org",
+	"keywords": ["freecodecamp"],
 	"scripts": {
 		"start": "node server.js"
 	},
+	"license": "MIT",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
